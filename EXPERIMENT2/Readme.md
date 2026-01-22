@@ -72,4 +72,5 @@ S1.display ( );
 }
 ```
 # output
-<img width="390" height="159" alt="2c output" src="https://github.com/user-attachments/assets/e97be377-7b75-42dd-a97e-cfa35a70da12" />
+![2c output](https://github.com/user-attachments/assets/c9728b14-27ab-4e54-8894-84ddb6af9e8b)
+
