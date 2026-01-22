@@ -17,4 +17,5 @@ System.out.println("sum: " + result);
 }
 ```
 # output
-![Uploading 2a.output.png…]()
+<img width="1161" height="479" alt="2a output" src="https://github.com/user-attachments/assets/b71d5a9f-9cf3-487d-ab08-bab7d41e8ba2" />
+
