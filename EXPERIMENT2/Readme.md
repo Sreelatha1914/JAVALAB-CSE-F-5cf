@@ -46,3 +46,5 @@ System.out.println("Result of adding three integers: " + sum3);
 ```
 # output
 <img width="1438" height="403" alt="2b output" src="https://github.com/user-attachments/assets/64d87c67-5e95-4ed4-8f63-35a14640f9e3" />
+
+
