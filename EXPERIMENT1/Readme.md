@@ -19,9 +19,9 @@ System.out.println("Default value of char
 : ''+ obj.ct"''');
 System.out.println( "Default value of boolean: " + obj.bool);  }
 }
-#output
 ```
-![EXPERIMENT 1 OUTPUT](1a.output.png)
+# output
+<img width="182" height="88" alt="1a output" src="https://github.com/user-attachments/assets/c9a73948-65a8-4146-b2b9-cdcdc6c1f726" />
 
 
 # EXPERIMENT1b
